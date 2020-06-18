@@ -1,5 +1,5 @@
-# Covid Tracker India - Telegram bot
-#Covid Tracker India - Telegram bot <br/>
+# Covid19 Tracker India - Telegram bot
+#Covid19 Tracker India - Telegram bot <br/>
 #Author - Akshay Shetty <br/>
 #Api - https://github.com/HrithikMittal/COVID19-India-API <br/>
 

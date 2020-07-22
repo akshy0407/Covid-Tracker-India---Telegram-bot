@@ -1,7 +1,7 @@
 # Covid19 Tracker India - Telegram bot
 #Covid19 Tracker India - Telegram bot <br/>
 #Author - Akshay Shetty <br/>
-#Api - https://github.com/HrithikMittal/COVID19-India-API <br/>
+#Api Credits - https://github.com/amodm/api-covid19-in <br/>
 
 How to setup this Telegram Bot Script. <br/>
 Step 1 : you Need a telegram bot and bot token. <br/>
